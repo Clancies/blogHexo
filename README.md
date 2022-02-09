@@ -1,5 +1,6 @@
+![hexo and Github logo](https://cdn0-t17.techbang.com/system/attached_images/2019/07/261667/original/f83071ffb726a0af8c3470cea40cde57.png)
 # blogHexo
-練習使用 **hexo** 建立部落格，套用 themes，安裝plug in
+使用 **hexo** 和 **Github Pages** 建立部落格，套用 themes，安裝plug in
 
 * 參考文章
   - [十分鐘快速掌握 Markdown](https://www.casper.tw/development/2019/11/23/ten-mins-learn-markdown/)
