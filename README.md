@@ -6,7 +6,7 @@
   - [十分鐘快速掌握 Markdown](https://www.casper.tw/development/2019/11/23/ten-mins-learn-markdown/)
   - [iT邦幫忙 hexo相關文章](https://ithelp.ithome.com.tw/tags/articles/hexo)
   - [【學習筆記】如何使用 Hexo + GitHub Pages 架設個人網誌](https://hackmd.io/@Heidi-Liu/note-hexo-github)
-  - - [使用 Hexo 建置網站](https://paper.dropbox.com/doc/Hexo--7zSMDUvNPffmjdilVv3AA)
+  - [使用 Hexo 建置網站](https://paper.dropbox.com/doc/Hexo--7zSMDUvNPffmjdilVv3AA)
 * 參考影片
   - [使用 Hexo 建構個人化部落格](https://youtu.be/jOJI9ekTzK8)
   - Hexo教程
