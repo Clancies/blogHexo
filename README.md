@@ -2,6 +2,8 @@
 # blogHexo
 使用 **hexo** 和 **Github Pages** 建立部落格，套用 themes，安裝plug in
 
+ [個人筆記](https://www.notion.so/hexo-6dad146893a34df29df995972a371e7b)
+
 * 參考文章
   - [十分鐘快速掌握 Markdown](https://www.casper.tw/development/2019/11/23/ten-mins-learn-markdown/)
   - [iT邦幫忙 hexo相關文章](https://ithelp.ithome.com.tw/tags/articles/hexo)
